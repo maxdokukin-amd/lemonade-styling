@@ -4,6 +4,8 @@ A reusable styling reference for the **AMD Lemonade** look & feel, distilled fro
 [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade). Drop it into a Lemonade
 extension or companion app and get a UI that matches the official desktop app — light and dark.
 
+<img src="docs/landing_page.png" alt="Landing page" width="600" />
+
 ## What's inside
 
 | Path | Purpose |
